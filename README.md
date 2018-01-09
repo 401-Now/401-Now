@@ -1,9 +1,8 @@
 # 401-Now
 
-
 Don't wait years for your 401k, get it in a time that matters, get it now!
 
-## Introdcution
+## Introduction
 This repository will hold a collection of Smart Contracts and other related code, documents and operational material.
 
 **IMPORTANT NOTE**
